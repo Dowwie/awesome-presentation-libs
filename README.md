@@ -1,5 +1,5 @@
 # Awesome Presentation Libraries [![Awesome]
-![](PhotoFunia-1509223700.jpg)
+![](PhotoFunia-1509223804.jpg)
 
 gitpitch:  https://github.com/gitpitch/gitpitch
 remark:  https://github.com/gnab/remark
